@@ -8,7 +8,8 @@ This project consists of a backend and frontend application.
 - [Deployment Guide](./DEPLOYMENT_GUIDE.md)
 
 ### Demo Video and Project Screenshots
-- [Demo Video and Screenshots Link](https://drive.google.com/drive/folders/1JJr6ZtMOBhoqUT-xjoi8spZ_AjTY9rLU?usp=drive_link)
+- [Demo Video Link](https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0j/view?usp=sharing)
+- [Project Screenshots Link](https://drive.google.com/drive/folders/1k9l8m7n6o5p4q3r2s1t/view?usp=sharing)
 
 ## Prerequisites
 
