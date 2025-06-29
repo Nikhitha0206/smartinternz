@@ -2,6 +2,14 @@
 
 This project consists of a backend and frontend application.
 
+## Project Documentation and Deployment Guide
+
+- [Project Documentation](./PROJECT_DOCUMENTATION.md)
+- [Deployment Guide](./DEPLOYMENT_GUIDE.md)
+
+### Demo Video and Project Screenshots
+- [Demo Video and Screenshots Link](https://drive.google.com/drive/folders/1JJr6ZtMOBhoqUT-xjoi8spZ_AjTY9rLU?usp=drive_link)
+
 ## Prerequisites
 
 - Node.js and npm installed on your system.

@@ -158,7 +158,7 @@ const UserAppointments = () => {
                       <td>{appointment.userInfo.fullName}</td>
                       <td>{appointment.date}</td>
                       <td>{appointment.userInfo.phone}</td>
-                      <td><Button variant='link' onClick={() => handleDownload(appointment.document.path, appointment._id)}>{appointment.document.filename}</Button></td>
+                      <td><Button variant='link' onClick={() => handleDownload(appointment.document?.path, appointment._id)}>{appointment.document ? appointment.document.filename : 'No Document'}</Button></td>
                       <td>{appointment.status}</td>
                       <td>{appointment.status === 'approved' ? <></> : <Button onClick={() => handleStatus(appointment.userInfo._id, appointment._id, 'approved')}>Approve</Button>}</td>
                     </tr>
