@@ -1,11 +1,11 @@
 # SmartInternz Project Documentation
 
 ## Project Demonstration Video
-[Watch the project demonstration video here](https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0j/view?usp=sharing)
+[Watch the project demonstration video here](https://drive.google.com/file/d/1ysBxgLoGWY3t5lp9a-1gwRE8YAxPokcu/view?usp=drive_link)
 
 ## Screenshots
 Screenshots of the project can be found at the following link:  
-[Project Screenshots](https://drive.google.com/drive/folders/1k9l8m7n6o5p4q3r2s1t/view?usp=sharing)
+[Project Screenshots](https://drive.google.com/drive/folders/1JJr6ZtMOBhoqUT-xjoi8spZ_AjTY9rLU?usp=drive_link)
 
 ## Project Description
 SmartInternz is a full-stack web application designed to manage users, doctors, and appointments. It includes an admin panel for managing doctors and users, user registration and login, and appointment scheduling features.
